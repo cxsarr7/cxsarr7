@@ -2,9 +2,12 @@
   <img src="assets/banner.png" width="100%" alt="Parem de levar essa merda de rede social tão a sério.">
 </p>
 
-<h1 align="center">César</h1>
-
-<p align="center">Aplicações web, do tabuleiro ao servidor.</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.png">
+    <img src="assets/name-light.png" height="52" alt="César Rebelo">
+  </picture>
+</p>
 
 ---
 
