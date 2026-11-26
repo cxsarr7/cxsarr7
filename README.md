@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="">
+  <img src="assets/banner.jpg" width="100%" alt="Parem de levar essa merda de rede social tão a sério.">
 </p>
 
 <h1 align="center">César</h1>
@@ -10,22 +10,18 @@
 
 ### Sobre
 
-<img src="assets/mark.svg" width="64" align="left" alt="">
-
 Construo a interface e o servidor no mesmo projeto. A conta fica na aplicação, e a regra do jogo no backend.
-
-<br clear="left">
 
 ### Tecnologias
 
 <p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=111111">
-  <img alt="React" src="https://img.shields.io/badge/React-087EA4?style=flat-square&amp;logo=react&amp;logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white">
-  <img alt="Express" src="https://img.shields.io/badge/Express-404040?style=flat-square&amp;logo=express&amp;logoColor=white">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F7F9F9?style=flat-square&amp;logo=typescript&amp;logoColor=1d9bf0">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7F9F9?style=flat-square&amp;logo=javascript&amp;logoColor=1d9bf0">
+  <img alt="React" src="https://img.shields.io/badge/React-F7F9F9?style=flat-square&amp;logo=react&amp;logoColor=1d9bf0">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-F7F9F9?style=flat-square&amp;logo=nodedotjs&amp;logoColor=1d9bf0">
+  <img alt="Express" src="https://img.shields.io/badge/Express-F7F9F9?style=flat-square&amp;logo=express&amp;logoColor=1d9bf0">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-F7F9F9?style=flat-square&amp;logo=tailwindcss&amp;logoColor=1d9bf0">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-F7F9F9?style=flat-square&amp;logo=postgresql&amp;logoColor=1d9bf0">
 </p>
 
 ### Projetos
