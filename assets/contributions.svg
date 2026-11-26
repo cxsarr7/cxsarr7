@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 320" role="img" aria-labelledby="title desc">
+  <title id="title">Contribuições</title>
+  <desc id="desc">6 contribuições no último ano. 4 em 18 de novembro de 2026 e 2 em 25 de novembro de 2026.</desc>
+  <rect width="920" height="320" fill="#0c0b09"/>
+  <rect x="0.5" y="0.5" width="919" height="319" fill="none" stroke="#2c2823"/>
+  <text x="32" y="42" fill="#f4efe6" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16">Contribuições</text>
+  <text x="32" y="66" fill="#9a9488" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12">6 no último ano · 12 a 25 de novembro de 2026</text>
+
+  <line x1="72" y1="96" x2="880" y2="96" stroke="#2c2823" stroke-width="1"/>
+  <line x1="72" y1="173" x2="880" y2="173" stroke="#2c2823" stroke-width="1"/>
+  <line x1="72" y1="250" x2="880" y2="250" stroke="#2c2823" stroke-width="1"/>
+  <text x="60" y="100" fill="#9a9488" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">4</text>
+  <text x="60" y="177" fill="#9a9488" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">2</text>
+  <text x="60" y="254" fill="#9a9488" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">0</text>
+
+  <polygon points="382.8,250 444.9,96 507.1,250" fill="#c4a36a" opacity="0.22"/>
+  <polygon points="817.8,250 880,173 880,250" fill="#c4a36a" opacity="0.22"/>
+  <polyline points="72,250 134.2,250 196.3,250 258.5,250 320.6,250 382.8,250 444.9,96 507.1,250 569.2,250 631.4,250 693.5,250 755.7,250 817.8,250 880,173" fill="none" stroke="#c4a36a" stroke-width="1.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <circle cx="444.9" cy="96" r="3.5" fill="#f4efe6"/>
+  <circle cx="880" cy="173" r="3.5" fill="#c4a36a">
+    <animate attributeName="opacity" values="1;0.35;1" dur="5.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <text x="72" y="286" fill="#9a9488" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">12</text>
+  <text x="444.9" y="286" fill="#9a9488" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">18</text>
+  <text x="880" y="286" fill="#9a9488" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">25</text>
+</svg>
