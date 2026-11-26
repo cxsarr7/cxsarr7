@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" alt="Parem de levar essa merda de rede social tão a sério.">
+  <img src="assets/banner.png" width="100%" alt="Parem de levar essa merda de rede social tão a sério.">
 </p>
 
 <h1 align="center">César</h1>
