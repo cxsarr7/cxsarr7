@@ -17,11 +17,8 @@
 
 ### Projetos
 
-[**Royal Chess**](https://github.com/cxsarr7/royal-chess)<br>
-Partidas ao vivo, bots, rating por ritmo, amigos e análise com Stockfish.
-
-[**Vexora**](https://github.com/cxsarr7/vexora)<br>
-Quiz de bandeiras com conta, perfil e amigos.
+<a href="https://github.com/cxsarr7/royal-chess"><img src="assets/project-royal.svg" width="49%" alt="Royal Chess. Partidas ao vivo, bots, rating por ritmo, amigos e análise com Stockfish."></a>
+<a href="https://github.com/cxsarr7/vexora"><img src="assets/project-vexora.svg" width="49%" alt="Vexora. Quiz de bandeiras com conta, perfil e amigos."></a>
 
 <img src="assets/languages.svg" width="100%" alt="TypeScript 57,8%, JavaScript 26,9%, PowerShell 7,3%, CSS 5,4% e HTML 2,6%, pelos bytes dos repositórios públicos.">
 
