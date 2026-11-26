@@ -11,21 +11,9 @@
 
 ---
 
-### Sobre
-
-Construo a interface e o servidor no mesmo projeto. A conta fica na aplicação, e a regra do jogo no backend.
-
 ### Tecnologias
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-F7F9F9?style=flat-square&amp;logo=typescript&amp;logoColor=1d9bf0">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7F9F9?style=flat-square&amp;logo=javascript&amp;logoColor=1d9bf0">
-  <img alt="React" src="https://img.shields.io/badge/React-F7F9F9?style=flat-square&amp;logo=react&amp;logoColor=1d9bf0">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-F7F9F9?style=flat-square&amp;logo=nodedotjs&amp;logoColor=1d9bf0">
-  <img alt="Express" src="https://img.shields.io/badge/Express-F7F9F9?style=flat-square&amp;logo=express&amp;logoColor=1d9bf0">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-F7F9F9?style=flat-square&amp;logo=tailwindcss&amp;logoColor=1d9bf0">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-F7F9F9?style=flat-square&amp;logo=postgresql&amp;logoColor=1d9bf0">
-</p>
+<img src="assets/stack.svg" alt="TypeScript, JavaScript, React, Node.js, Express, Tailwind e Postgres.">
 
 ### Projetos
 
